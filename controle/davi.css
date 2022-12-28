@@ -1,0 +1,15 @@
+.option.invalido{
+    color: gray;
+}
+.normal{
+    color:red;
+}
+button{
+    color:red;
+    border-radius: 10px;
+    border-color: white;
+
+}
+button:hover{
+    color:blue;
+}
